@@ -1,1 +1,2 @@
-Hello cunts
+Hello cunts!
+This is a readme
