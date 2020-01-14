@@ -9,3 +9,5 @@ now that we have made a branch lets merge it into master.
 how about we delete this part: 
 
 did that work?
+
+now lets merge to master again, then I'm done.
